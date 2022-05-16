@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasmoron&label=Profile%20views&color=0e75b6&style=flat" alt="matiasmoron" /> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/matias-moron-gonzalo/**
-
 - 📄 Know about my experiences [https://matiasmoron.github.io/cv-matiasmoron/](https://matiasmoron.github.io/cv-matiasmoron/)
 
 <h3 align="left">Connect with me:</h3>
